@@ -1,0 +1,17 @@
+# 个人私密文件, 绝不能提交 (含登录 cookie / 下载历史)
+config.json
+download_history.db
+termux/config.json
+termux/download_history.db
+
+# 构建产物
+build/
+dist/
+__pycache__/
+*.py[cod]
+/pixiv_dl.spec
+test_out/
+
+# 安卓构建产物
+android/.buildozer/
+android/bin/
