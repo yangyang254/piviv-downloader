@@ -6,7 +6,9 @@ termux/download_history.db
 
 # 构建产物
 build/
+build_clean/
 dist/
+release/
 __pycache__/
 *.py[cod]
 /*.spec
