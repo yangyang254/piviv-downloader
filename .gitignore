@@ -9,7 +9,7 @@ build/
 dist/
 __pycache__/
 *.py[cod]
-/pixiv_dl.spec
+/*.spec
 test_out/
 
 # 安卓构建产物
